@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>raytracing.frag</file>
+        <file>raytracing.vert</file>
+    </qresource>
+</RCC>
